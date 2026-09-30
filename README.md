@@ -207,7 +207,7 @@ All models were evaluated on the same held-out test set (7,600 samples).
 ## 📁 Project Structure
 
 ```text
-AGNews-RNN-LSTM-GRU-Project/
+AGNews-Text-Classification-RNN-LSTM-GRU/
 │
 ├── Text\_Classification\_Using\_RNN\_LSTM\_GRU\_Models.ipynb
 ├── images/
@@ -229,8 +229,8 @@ AGNews-RNN-LSTM-GRU-Project/
 ### 1\. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd AGNews-RNN-LSTM-GRU-Project
+git clone https://github.com/Ahmed-Abdelfattah-tech/AGNews-Text-Classification-RNN-LSTM-GRU.git
+cd AGNews-Text-Classification-RNN-LSTM-GRU
 ```
 
 ### 2\. Install dependencies
@@ -267,5 +267,5 @@ Gated architectures (LSTM, GRU) outperformed the plain RNN, and did so almost id
 
 **Ahmed Abdelfattah**
 
-Aspiring **Applied AI / LLM Engineer**
+
 
