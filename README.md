@@ -139,21 +139,21 @@ All models were evaluated on the same held-out test set (7,600 samples).
 
 **Simple RNN**
 
-|Accuracy|Loss|
-|-|-|
-|!\[RNN accuracy](images/accuracy\_curve\_RNN.png)|!\[RNN loss](images/loss\_curve\_RNN.png)|
+!\[RNN accuracy](accuracy\_curve\_RNN.png)
+
+!\[RNN loss](loss\_curve\_RNN.png)
 
 **LSTM (Bidirectional)**
 
-|Accuracy|Loss|
-|-|-|
-|!\[LSTM accuracy](images/accuracy\_curve\_LSTM.png)|!\[LSTM loss](images/loss\_curve\_LSTM.png)|
+!\[LSTM accuracy](accuracy\_curve\_LSTM.png)
+
+!\[LSTM loss](loss\_curve\_LSTM.png)
 
 **GRU (Bidirectional)**
 
-|Accuracy|Loss|
-|-|-|
-|!\[GRU accuracy](images/accuracy\_curve\_GRU.png)|!\[GRU loss](images/loss\_curve\_GRU.png)|
+!\[GRU accuracy](accuracy\_curve\_GRU.png)
+
+!\[GRU loss](loss\_curve\_GRU.png)
 
 \---
 
